@@ -1,0 +1,27 @@
+[
+  {
+    "headers": {
+                 "url": "/signup",
+                 "method": "POST"
+               },
+    "params": {},
+    "query": {},
+    "body": {
+              "username": "kleggas",
+              "password": "klet2478",
+              "role": "admin"
+            }
+  },
+  {
+    "headers": {
+                 "url": "/login",
+                 "method": "POST"
+               },
+    "params": {},
+    "query": {},
+    "body": {
+              "username": "kleggas",
+              "password": "klet2478"
+            }
+  }
+]
