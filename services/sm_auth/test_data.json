@@ -1,27 +1,14 @@
 [
   {
-    "headers": {
-                 "url": "/signup",
-                 "method": "POST"
-               },
+    "headers": {},
     "params": {},
     "query": {},
-    "body": {
-              "username": "kleggas",
-              "password": "klet2478",
-              "role": "admin"
-            }
+    "body": {}
   },
   {
-    "headers": {
-                 "url": "/login",
-                 "method": "POST"
-               },
+    "headers": {},
     "params": {},
     "query": {},
-    "body": {
-              "username": "kleggas",
-              "password": "klet2478"
-            }
+    "body": {}
   }
 ]
